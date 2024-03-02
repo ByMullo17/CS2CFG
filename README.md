@@ -1,2 +1,1 @@
-# CS2CFG
-This is my CS2 CFG
+To use my config or use ur own config u have to download this autoexec.cfg file and put it into the following path "X:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg", Once ur there u can edit the file or just leave it as it is. Then u have to go to CS2 properties on steam and write "+exec autoexec.cfg", then when you load the game it will use the cfg file with the binds and settings that it has, if the cfg doesn't load just open the console and write "exec autoexec".
